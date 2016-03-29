@@ -1,0 +1,94 @@
+#wraper{
+	width:80%;
+	margin:0 auto;
+}
+.jiantou{
+	position: fixed;
+	bottom:0px;
+	right: 10%;
+}
+#second{
+	background-image:url(image/2.jpg);
+	height:768px;
+	width:96%;
+	margin-top: -3px;
+	position:relative;
+
+}
+
+.second1{
+	height: 600px;
+	width: 80px;
+	margin-top: 54px;
+	margin-left: 116px;
+	float: left;
+	position:absolute;
+}
+.second2{
+	height: 600px;
+	width: 80px;
+	margin-top: 135px;
+	position:absolute;
+	left: 415px;
+}
+.second3{
+	height: 600px;
+	width: 80px;
+	margin-top: 54px;
+	position:absolute;
+	right: 225px;
+}
+.tu{
+	margin-left: 20px;
+	font-size: 35px;
+	font-family: 微软雅黑;
+	text-decoration: none;
+	color: black;
+}
+.second21{
+	height: 596px;
+	width: 183.5px;
+	background-image: url(image/21.jpg);
+	margin-top: 53px;
+	margin-left: 116px;
+	float: left;
+	position:absolute;
+}
+.second22{
+	height: 596px;
+	width: 183.5px;
+	margin-top: 135px;
+	position:absolute;
+	left: 415px;
+	background-image: url(image/22.jpg);
+}
+.second23{
+	height: 596px;
+	width: 183.5px;
+	margin-top: 53px;
+	position:absolute;
+	right: 120px;
+	background-image: url(image/23.jpg);
+}
+.body{
+	background-image: url(image/beijing.jpg);
+	height: 767px;
+	width: 96%;
+}
+.p{
+	font-family: 微软雅黑;
+	text-indent: 2em;
+	line-height: 2em;
+	width: 80%;
+	margin:0 auto; 
+}
+.h1{
+	font-family: 微软雅黑;
+	width: 80%;
+	margin:0 auto; 
+	padding-top: 50px;
+}
+.shici{
+	margin-left: 80px;
+	margin-top: 20px;
+}
